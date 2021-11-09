@@ -1,1 +1,1 @@
-Python Codes for Maths using Jupiter notebook
+Python Codes for AI/ML using Jupiter notebook
